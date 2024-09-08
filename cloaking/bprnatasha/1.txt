@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/im/5.0.103/index.css" /><link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" /><link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://awsimages.detik.net.id/community/media/visual/2022/10/26/arlida-putri-5_43.jpeg" />
   <link rel="canonical" href="https://bprnatasha.com/" />
-  <link rel="amphtml" href="https://ex-zol.pages.dev/bprnatasha-yeni-ad/" />
+  <link rel="amphtml" href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/bprnatasha-yeni-ad/index.html" />
   <link rel="preload" href="https://awsimages.detik.net.id/community/media/visual/2022/10/26/arlida-putri-5_43.jpeg" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
