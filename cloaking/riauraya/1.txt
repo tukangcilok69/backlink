@@ -1,22 +1,22 @@
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
-  <title>SLOT ONLINE INDONESIA ! ALTERNATIF LINK SLOT GACOR MAXWIN 4D HARI INI PETIR X1000!</title>
-  <meta name="description" content="SLOT ONLINE INDONESIA atau lebih di kenal dengan slot gacor maxwin 4d hari ini menghadirkan permainan fairplay untuk tipe slot gacor tanpa settingan bandar dan murni adil dari server." />
+  <title>SLOT GACOR PG! ALTERNATIF LINK SLOT GACOR MAXWIN RTP TERTINGGI HARI INI 2024</title>
+  <meta name="description" content="SLOT GACOR PG link alternatif situs slot gacor maxwin hari ini dengan rtp tertinggi 2024 di indonesia hadir dengan tampilan game anti lag dan anti blokir." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://teknikmesin.upr.ac.id/" />
-  <meta name="og:title" content="SLOT ONLINE INDONESIA ! ALTERNATIF LINK SLOT GACOR MAXWIN 4D HARI INI PETIR X1000!" />
+  <meta name="og:url" content="https://www.riauraya.com/" />
+  <meta name="og:title" content="SLOT GACOR PG! ALTERNATIF LINK SLOT GACOR MAXWIN RTP TERTINGGI HARI INI 2024" />
   <meta name="og:type" content="product" />
-  <meta name="og:description" content="SLOT ONLINE INDONESIA atau lebih di kenal dengan slot gacor maxwin 4d hari ini menghadirkan permainan fairplay untuk tipe slot gacor tanpa settingan bandar dan murni adil dari server." />
-  <meta name="og:image" content="https://i.ytimg.com/vi/qBICsfMd8zI/hq720.jpg" />
+  <meta name="og:description" content="SLOT GACOR PG link alternatif situs slot gacor maxwin hari ini dengan rtp tertinggi 2024 di indonesia hadir dengan tampilan game anti lag dan anti blokir." />
+  <meta name="og:image" content="https://i.ytimg.com/vi/JzdOPLpFIV8/oar2.jpg" />
   <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/im/5.0.103/index.css" /><link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" /><link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="fav.png" />
-  <link rel="canonical" href="https://teknikmesin.upr.ac.id/" />
-  <link rel="amphtml" href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/teknikmesin.html" />
-  <link rel="preload" href="https://i.ytimg.com/vi/qBICsfMd8zI/hq720.jpg" as="image" />
+  <link rel="canonical" href="https://www.riauraya.com/" />
+  <link rel="amphtml" href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/riauraya.html" />
+  <link rel="preload" href="https://i.ytimg.com/vi/JzdOPLpFIV8/oar2.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com" />
@@ -115,7 +115,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"SLOT ONLINE INDONESIA ! ALTERNATIF LINK SLOT GACOR MAXWIN 4D HARI INI PETIR X1000!\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
+    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"SLOT GACOR PG! ALTERNATIF LINK SLOT GACOR MAXWIN RTP TERTINGGI HARI INI 2024\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -635,7 +635,7 @@
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"SLOT ONLINE INDONESIA ! ALTERNATIF LINK SLOT GACOR MAXWIN 4D HARI INI PETIR X1000!","image":"https://i.ytimg.com/vi/qBICsfMd8zI/hq720.jpg","category":"SLOT ONLINE INDONESIA","brand":{"@type":"Brand","name":"SLOT ONLINE INDONESIA","url":"https://teknikmesin.upr.ac.id/"},"sku":"3642482616_ID-6108584355","mpn":3612482616,"description":"SLOT ONLINE INDONESIA atau lebih di kenal dengan slot gacor maxwin 4d hari ini menghadirkan permainan fairplay untuk tipe slot gacor tanpa settingan bandar dan murni adil dari server.","url":"https://teknikmesin.upr.ac.id/","offers":{"@type":"Offer","url":"https://teknikmesin.upr.ac.id/","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"SLOT GACOR PG! ALTERNATIF LINK SLOT GACOR MAXWIN RTP TERTINGGI HARI INI 2024","image":"https://i.ytimg.com/vi/JzdOPLpFIV8/oar2.jpg","category":"SLOT GACOR PG","brand":{"@type":"Brand","name":"SLOT GACOR PG","url":"https://www.riauraya.com/"},"sku":"3642482616_ID-6108584355","mpn":3612482616,"description":"SLOT GACOR PG link alternatif situs slot gacor maxwin hari ini dengan rtp tertinggi 2024 di indonesia hadir dengan tampilan game anti lag dan anti blokir.","url":"https://www.riauraya.com/","offers":{"@type":"Offer","url":"https://www.riauraya.com/","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -645,36 +645,36 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://teknikmesin.upr.ac.id/",
-            "name": "SLOT ONLINE INDONESIA HARI INI"
+            "@id": "https://www.riauraya.com/",
+            "name": "SLOT GACOR PG HARI INI"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://teknikmesin.upr.ac.id/",
-            "name": "SLOT ONLINE INDONESIA RESMI"
+            "@id": "https://www.riauraya.com/",
+            "name": "SLOT GACOR PG RESMI"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://teknikmesin.upr.ac.id/",
+            "@id": "https://www.riauraya.com/",
             "name": "Situs Slot"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://teknikmesin.upr.ac.id/",
-            "name": "SLOT ONLINE INDONESIA ONLINE"
+            "@id": "https://www.riauraya.com/",
+            "name": "SLOT GACOR PG ONLINE"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://teknikmesin.upr.ac.id/",
-            "name": "SLOT ONLINE INDONESIA ! ALTERNATIF LINK SLOT GACOR MAXWIN 4D HARI INI PETIR X1000!"
+            "@id": "https://www.riauraya.com/",
+            "name": "SLOT GACOR PG! ALTERNATIF LINK SLOT GACOR MAXWIN RTP TERTINGGI HARI INI 2024"
           }
         }]
       }
@@ -779,12 +779,12 @@
                       <a class="highlight" target="_blank" href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Masukan</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                        <span>LIVE CHAT SLOT ONLINE INDONESIA</span>
+                        <span>LIVE CHAT SLOT GACOR PG</span>
                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
     <div class="get-the-app-scope">
       <div class="get-the-app">
-        <div class="get-the-app-title">SLOT ONLINE INDONESIA AGEN TERPERCAYA SLOT DAN TOGEL TERLENGKAP!</div>
+        <div class="get-the-app-title">SLOT GACOR PG AGEN TERPERCAYA SLOT DAN TOGEL TERLENGKAP!</div>
         <div class="get-the-app-promotion">
             <div class="get-the-app-lazada-qr-wrap">
               <img class="get-the-app-lazada-qr" src="https://i.ibb.co/0Dx0mH6/favicon-kiwi.png" alt="slot gacor online">
@@ -792,10 +792,10 @@
           <div class="promotion-text">
             <a href="https://pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
               <div class="get-the-app-download-text">
-                <p>bermain di SLOT ONLINE INDONESIA banyak untungnya:</p>
+                <p>bermain di SLOT GACOR PG banyak untungnya:</p>
 <ul>
 <li>Banyak Bonusnya</li>
-<li>SLOT ONLINE INDONESIA Eksklusif di App</li>
+<li>SLOT GACOR PG Eksklusif di App</li>
 <li>Rekomendasi Slot Gacor Untukmu</li>
 <li>Paling Pertama Dapat Promo&nbsp;</li>
 </ul>
@@ -814,10 +814,10 @@
 <div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
 <div class="error-message" id="topActionDownloadErrorMsg"></div>
         <div class="app-stores">
-          <a href="https://teknikmesin.upr.ac.id/" class="store-link">
+          <a href="https://www.riauraya.com/" class="store-link">
             <i class="app-apple"></i>
           </a>
-          <a href="https://teknikmesin.upr.ac.id/" class="store-link">
+          <a href="https://www.riauraya.com/" class="store-link">
             <i class="app-google"></i>
           </a>
         </div>
@@ -827,7 +827,7 @@
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="https://teknikmesin.upr.ac.id/" data-spm-click="/">LIVE CASINO</a>
+                    <a class="cyan" href="https://www.riauraya.com/" data-spm-click="/">LIVE CASINO</a>
                 </div>
                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="/">
                       <span>PASARAN TOGEL</span>
@@ -902,10 +902,10 @@
 </div>
                   </div>
                 <div class="top-links-item  grey" id="anonLogin">
-                  <a class="grey" href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/silantik.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN SLOT ONLINE INDONESIA</a>
+                  <a class="grey" href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/silantik.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN SLOT GACOR PG</a>
                 </div>
                 <div class="top-links-item  grey" id="anonSignup">
-                  <a class="grey" href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/silantik.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR SLOT ONLINE INDONESIA</a>
+                  <a class="grey" href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/silantik.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR SLOT GACOR PG</a>
                 </div>
                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                   <span id="myAccountTrigger" class="grey"></span>
@@ -913,32 +913,32 @@
   <div class="top-popup-content lzd-account-content">
       <ul class="account-list">
           <li class="account-item">
-                <a href="https://teknikmesin.upr.ac.id/user/account#/" class="account-item-anchor">
+                <a href="https://www.riauraya.com/user/account#/" class="account-item-anchor">
                     <span class="account-icon test manage-account"></span>Panel Akun
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://teknikmesin.upr.ac.id/customer/order/index/" class="account-item-anchor">
+                <a href="https://www.riauraya.com/customer/order/index/" class="account-item-anchor">
                     <span class="account-icon test my-orders"></span>Pesanan Saya
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://teknikmesin.upr.ac.id/wishlist/index" class="account-item-anchor">
+                <a href="https://www.riauraya.com/wishlist/index" class="account-item-anchor">
                     <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://teknikmesin.upr.ac.id/customer/myReview/my-reviews" class="account-item-anchor">
+                <a href="https://www.riauraya.com/customer/myReview/my-reviews" class="account-item-anchor">
                     <span class="account-icon test my-reviews"></span>Ulasan Saya
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://teknikmesin.upr.ac.id/customer/returns/index?requestType=return" class="account-item-anchor">
+                <a href="https://www.riauraya.com/customer/returns/index?requestType=return" class="account-item-anchor">
                     <span class="account-icon test returns"></span>Pengembalian &amp;  Pembatalan
                 </a>
           </li>
           <li class="account-item">
-                <a href="https://teknikmesin.upr.ac.id/user/logout" class="account-item-anchor" id="account-popup-logout">
+                <a href="https://www.riauraya.com/user/logout" class="account-item-anchor" id="account-popup-logout">
                     <span class="account-icon test logout"></span>Logout
                 </a>
           </li>
@@ -951,15 +951,15 @@
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
               <div class="lzd-logo-content">
-              <a href="https://teknikmesin.upr.ac.id/" data-spm="dhome">
-              <img src="https://www.imgbob.online/ib/aznmVW4Cwx.gif" alt="SLOT ONLINE INDONESIA ! ALTERNATIF LINK SLOT GACOR MAXWIN 4D HARI INI PETIR X1000!"></a></div>
-              <div class="lzd-nav-search " data-spm="search"><div class="layout-search-box--qK-K"><form action="//www.lazada.co.id/catalog/" method="GET" autocomplete="off"><div class="search-box--2I2a"><div class="search-box__bar--29h6"><input type="search" id="q" name="q" placeholder="SLOT ONLINE INDONESIA INDONESIA" class="search-box__input--O34g" tabindex="1" value="SLOT ONLINE INDONESIA" /><input type="hidden" name="_keyori" value="ss" /><input type="hidden" name="from" value="input" /><input type="hidden" name="spm" value="..search.go." /></div><div class="search-box__search--2fC5"><a href="//www.lazada.co.id/catalog/?q=" class="search-box__button--1oH7" tabindex="2" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go" referrerpolicy="origin">Cari</a></div></div></form><div class="hotBorder--3N6k"></div></div></div>
+              <a href="https://www.riauraya.com/" data-spm="dhome">
+              <img src="https://www.imgbob.online/ib/aznmVW4Cwx.gif" alt="SLOT GACOR PG! ALTERNATIF LINK SLOT GACOR MAXWIN RTP TERTINGGI HARI INI 2024"></a></div>
+              <div class="lzd-nav-search " data-spm="search"><div class="layout-search-box--qK-K"><form action="//www.lazada.co.id/catalog/" method="GET" autocomplete="off"><div class="search-box--2I2a"><div class="search-box__bar--29h6"><input type="search" id="q" name="q" placeholder="SLOT GACOR PG INDONESIA" class="search-box__input--O34g" tabindex="1" value="SLOT GACOR PG" /><input type="hidden" name="_keyori" value="ss" /><input type="hidden" name="from" value="input" /><input type="hidden" name="spm" value="..search.go." /></div><div class="search-box__search--2fC5"><a href="//www.lazada.co.id/catalog/?q=" class="search-box__button--1oH7" tabindex="2" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go" referrerpolicy="origin">Cari</a></div></div></form><div class="hotBorder--3N6k"></div></div></div>
                 <div class="lzd-nav-menu-redmart" style="display: none;">
   <div class="mui-zebra-module" id="J_icms-5000527-1511531232618" data-module-id="icms-5000527-1511531232618" data-version="5.0.83" data-spm="icms-5000527-1511531232618">
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://teknikmesin.upr.ac.id/">
+            <a href="https://www.riauraya.com/">
                 <span class="lzd-site-menu-nav-category-text">DAFTAR SITUS SLOT</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -1999,28 +1999,28 @@
                     <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">SLOT SLOT ONLINE INDONESIA</span>
+                <span class="lzd-menu-labels-item-text">SLOT SLOT GACOR PG</span>
             </a>
             <a class="lzd-menu-labels-item" href="/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                        <span class="lzd-menu-labels-item-text">SLOT ONLINE INDONESIA TOGEL</span>
+                        <span class="lzd-menu-labels-item-text">SLOT GACOR PG TOGEL</span>
             </a>
             <a class="lzd-menu-labels-item" href="/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                        <span class="lzd-menu-labels-item-text">SLOT ONLINE INDONESIA LIVE HK</span>
+                        <span class="lzd-menu-labels-item-text">SLOT GACOR PG LIVE HK</span>
             </a>
             <a class="lzd-menu-labels-item" href="/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                <span class="lzd-menu-labels-item-text">SLOT ONLINE INDONESIA PASARAN TOGEL</span>
+                <span class="lzd-menu-labels-item-text">SLOT GACOR PG PASARAN TOGEL</span>
             </a>
         </nav>
     </div>
@@ -2040,7 +2040,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://teknikmesin.upr.ac.id/">
+            <a href="https://www.riauraya.com/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -3080,28 +3080,28 @@
                     <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                <span class="lzd-menu-labels-item-text">SLOT SLOT ONLINE INDONESIA</span>
+                <span class="lzd-menu-labels-item-text">SLOT SLOT GACOR PG</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://teknikmesin.upr.ac.id/">
+            <a class="lzd-menu-labels-item" href="https://www.riauraya.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                        <span class="lzd-menu-labels-item-text">SLOT ONLINE INDONESIA TEOGEL</span>
+                        <span class="lzd-menu-labels-item-text">SLOT GACOR PG TEOGEL</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://teknikmesin.upr.ac.id/">
+            <a class="lzd-menu-labels-item" href="https://www.riauraya.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
-                        <span class="lzd-menu-labels-item-text">SLOT ONLINE INDONESIA LIVE CASINO</span>
+                        <span class="lzd-menu-labels-item-text">SLOT GACOR PG LIVE CASINO</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://teknikmesin.upr.ac.id/">
+            <a class="lzd-menu-labels-item" href="https://www.riauraya.com/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                <span class="lzd-menu-labels-item-text">SLOT ONLINE INDONESIA LOGIN</span>
+                <span class="lzd-menu-labels-item-text">SLOT GACOR PG LOGIN</span>
             </a>
         </nav>
     </div>
@@ -3374,17 +3374,17 @@ if (!lzdDocCookies.getItem('t_uid')) {
     <div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery">
     <div class="gallery-preview-panel">
     <div class="gallery-preview-panel__content">
-    <img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT ONLINE INDONESIA ! ALTERNATIF LINK SLOT GACOR MAXWIN 4D HARI INI PETIR X1000!" src="https://i.ytimg.com/vi/qBICsfMd8zI/hq720.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true">
+    <img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT GACOR PG! ALTERNATIF LINK SLOT GACOR MAXWIN RTP TERTINGGI HARI INI 2024" src="https://i.ytimg.com/vi/JzdOPLpFIV8/oar2.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true">
     <div class="next-slick-list">
     <div class="next-slick-track">
     <div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1">
-    <div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SLOT ONLINE INDONESIA ! ALTERNATIF LINK SLOT GACOR MAXWIN 4D HARI INI PETIR X1000!</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://teknikmesin.upr.ac.id/">SLOT ONLINE INDONESIA</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+    <div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SLOT GACOR PG! ALTERNATIF LINK SLOT GACOR MAXWIN RTP TERTINGGI HARI INI 2024</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://www.riauraya.com/">SLOT GACOR PG</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
 	
-	<p><a href="https://teknikmesin.upr.ac.id/">SLOT ONLINE INDONESIA</a> atau lebih di kenal dengan <b>slot gacor</b> maxwin 4d hari ini menghadirkan permainan fairplay untuk tipe slot gacor tanpa settingan bandar dan murni adil dari server.</p>
-	<p>jenis permainan <a href="https://teknikmesin.upr.ac.id/">slot gacor</a> maxwin adalah permainan yang sering di mainkan oleh beberapa player game SLOT ONLINE INDONESIA indonesia karena memiliki tingkat kemenangan yang lebih tinggi di banding tipe game slot lainya seperti pg-soft.</p>
-	<p>tetapi semua tergantung dengan anda sukai, kami menghadirkan ribuan game provider untuk anda mainkan dan kembangkan sesuai dengan skill yang anda miliki karena ada beberapa game SLOT ONLINE INDONESIA gacor maxwin yang sangat mudah untuk mendapatkan maxwin jackpot.</p>
+	<p><a href="https://www.riauraya.com/">SLOT GACOR PG</a> link alternatif situs slot gacor maxwin hari ini dengan rtp tertinggi 2024 di indonesia hadir dengan tampilan game anti lag dan anti blokir.</p>
+	<p>terdapat <a href="https://www.riauraya.com/">slot gacor</a> maxwin dengan tipe pilihan game slots dan togel terlengkap hari ini do indonesia resmi dari platfrom thailand.</p>
+	<p>ribuan member telah membuktikan isu maxwin istan di situs ini adalah nyata. login dan perbarui rtp untuk mendapatkan tinggkat kemenangan tertinggi hari ini denan berbagai game slot dan togel terlengkap.</p>
 	
-	<div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.150.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-80%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/silantik.html"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">Login</span></button></a><a href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/silantik.html" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">SLOT SLOT ONLINE INDONESIA agen terpercaya</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+	<div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.150.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-80%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/silantik.html"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">Login</span></button></a><a href="https://pub-1d0e494942a4484aaa172bfbe9598c91.r2.dev/silantik.html" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">SLOT SLOT GACOR PG agen terpercaya</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script>
@@ -3631,13 +3631,13 @@ if (!lzdDocCookies.getItem('t_uid')) {
     <div class="footer-first">
       <div class="lzd-footer-inner" data-spm="footer_top">
   <div class="lzd-footer-width-25">
-    <h3 class="footer-title">Layanan Pelanggan SLOT ONLINE INDONESIA</h3>
+    <h3 class="footer-title">Layanan Pelanggan SLOT GACOR PG</h3>
     <ul class="footer-list">
-      <li class="footer-li"><a href="https://teknikmesin.upr.ac.id/helpcenter/">Pusat Bantuan</a></li>
-      <li class="footer-li"><a href="https://teknikmesin.upr.ac.id/helpcenter/payments/">Cara Pembelian</a></li>
-      <li class="footer-li"><a href="https://teknikmesin.upr.ac.id/helpcenter/shipping-and-delivery/">Pengiriman</a></li>
-      <li class="footer-li"><a href="https://teknikmesin.upr.ac.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
-      <li class="footer-li"><a href="https://teknikmesin.upr.ac.id/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
+      <li class="footer-li"><a href="https://www.riauraya.com/helpcenter/">Pusat Bantuan</a></li>
+      <li class="footer-li"><a href="https://www.riauraya.com/helpcenter/payments/">Cara Pembelian</a></li>
+      <li class="footer-li"><a href="https://www.riauraya.com/helpcenter/shipping-and-delivery/">Pengiriman</a></li>
+      <li class="footer-li"><a href="https://www.riauraya.com/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
+      <li class="footer-li"><a href="https://www.riauraya.com/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
       <li class="--js-csc-trigger">
         <a style="background: #f36f36; display: inline-block; color:#0F136D ; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
       </li>
@@ -3647,13 +3647,13 @@ if (!lzdDocCookies.getItem('t_uid')) {
     <h3 class="footer-title">Jelajahi Lazada</h3>
     <ul class="footer-list">
       <li class="footer-li">
-          <a href="https://teknikmesin.upr.ac.id/about/">Tentang SLOT ONLINE INDONESIA</a>
+          <a href="https://www.riauraya.com/about/">Tentang SLOT GACOR PG</a>
       </li>
       <li class="footer-li">
           <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afﬁliate Program</a>
       </li>
       <li class="footer-li">
-          <a href="https://teknikmesin.upr.ac.id/THAILAND-SLOT/">SLOT ONLINE INDONESIA Karir</a>
+          <a href="https://www.riauraya.com/THAILAND-SLOT/">SLOT GACOR PG Karir</a>
       </li>
       <li class="footer-li">
           <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/terms-of-use">Syarat &amp; Ketentuan</a>
@@ -3665,10 +3665,10 @@ if (!lzdDocCookies.getItem('t_uid')) {
           <a href="//group.lazada.com/en/press-release/">Press &amp; Media</a>
       </li>
       <li class="footer-li">
-          <a href="https://teknikmesin.upr.ac.id/marketplace/">Jual Di SLOT ONLINE INDONESIA</a>
+          <a href="https://www.riauraya.com/marketplace/">Jual Di SLOT GACOR PG</a>
       </li>
       <li class="footer-li">
-          <a href="https://teknikmesin.upr.ac.id/security/">SLOT ONLINE INDONESIA Security</a>
+          <a href="https://www.riauraya.com/security/">SLOT GACOR PG Security</a>
       </li>
       <li class="footer-li">
           <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/ipr-policy">Intellectual Property Protection</a>
@@ -3702,16 +3702,16 @@ if (!lzdDocCookies.getItem('t_uid')) {
       <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -209px -829px; "></span>
   </div>
   <div class="lzd-footer-width-32 lzd-footer-spacing">
-    <h3 class="lzd-footer-h3">SLOT ONLINE INDONESIA</h3>
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01RNizk522j2cPtaRjc_!!6000000007155-2-tps-96-70.png" alt="SLOT ONLINE INDONESIA Hari Ini" style="height: 70px;   width: 96px;">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01Y8JAuA1pB4EhCiF0K_!!6000000005321-2-tps-96-70.png" alt="SLOT ONLINE INDONESIA Gampang Maxwin" style="height: 70px;   width: 96px;">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01qvF2hw1lWoZrnGZev_!!6000000004827-2-tps-96-70.png" alt="SLOT ONLINE INDONESIA Gampang Jackpot" style="height: 70px;   width: 96px;">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01DGonqR1H5qmpBI2hf_!!6000000000707-2-tps-96-70.png" alt="SLOT ONLINE INDONESIA Pasti Jackpot" style="height: 70px;   width: 96px;">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01ENOAXK1UR05CB9iwA_!!6000000002513-2-tps-96-70.png" alt="SLOT SLOT ONLINE INDONESIA Gacor" style="height: 70px;   width: 96px;">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01mFypLB1jt8eRUFBC0_!!6000000004605-2-tps-96-70.png" alt="SLOT SLOT ONLINE INDONESIA Hari ini" style="height: 70px;   width: 96px;">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN011Ya3Kg1OSw3sg81tm_!!6000000001705-2-tps-96-70.png" alt="SLOT ONLINE INDONESIA Mudah Jepe" style="height: 70px;   width: 96px;">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN019tUhkL1abQnOURPrd_!!6000000003348-2-tps-96-70.png" alt="SLOT ONLINE INDONESIA Login" style="height: 70px;   width: 96px;">
-      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01uOZizA1UOFhot1z5u_!!6000000002507-2-tps-96-70.png" alt="SLOT SLOT ONLINE INDONESIA" style="height: 70px;   width: 96px;">
+    <h3 class="lzd-footer-h3">SLOT GACOR PG</h3>
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01RNizk522j2cPtaRjc_!!6000000007155-2-tps-96-70.png" alt="SLOT GACOR PG Hari Ini" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01Y8JAuA1pB4EhCiF0K_!!6000000005321-2-tps-96-70.png" alt="SLOT GACOR PG Gampang Maxwin" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01qvF2hw1lWoZrnGZev_!!6000000004827-2-tps-96-70.png" alt="SLOT GACOR PG Gampang Jackpot" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01DGonqR1H5qmpBI2hf_!!6000000000707-2-tps-96-70.png" alt="SLOT GACOR PG Pasti Jackpot" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01ENOAXK1UR05CB9iwA_!!6000000002513-2-tps-96-70.png" alt="SLOT SLOT GACOR PG Gacor" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01mFypLB1jt8eRUFBC0_!!6000000004605-2-tps-96-70.png" alt="SLOT SLOT GACOR PG Hari ini" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN011Ya3Kg1OSw3sg81tm_!!6000000001705-2-tps-96-70.png" alt="SLOT GACOR PG Mudah Jepe" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN019tUhkL1abQnOURPrd_!!6000000003348-2-tps-96-70.png" alt="SLOT GACOR PG Login" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01uOZizA1UOFhot1z5u_!!6000000002507-2-tps-96-70.png" alt="SLOT SLOT GACOR PG" style="height: 70px;   width: 96px;">
   </div>
   <div class="lzd-footer-width-32">
     <h3 class="lzd-footer-h3">Verified by</h3>
@@ -3764,7 +3764,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
   </div>
   <div class="lzd-footer-width-25">
     <div class="lzd-footer-copyright">
-    © SLOT ONLINE INDONESIA RESMI 2024 PASTI MAXWIN HARI INI
+    © SLOT GACOR PG RESMI 2024 PASTI MAXWIN HARI INI
     </div>
   </div>
 </div>
